@@ -1,6 +1,6 @@
 {
   "name": "react-draggable",
-  "version": "5.3.0",
+  "version": "5.4.0",
   "description": "React draggable component",
   "main": "build/cjs/cjs.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "build": "make clean build",
     "lint": "make lint",
     "flow": "flow",
-    "postinstall": "npm run-script build"
+    "postinstall": "pwd"
   },
   "files": [
     "/build",
